@@ -12,32 +12,32 @@ page-layout: article
   </div>
   <div class="hero-text">
     <h1>Bladimir Padilla</h1>
-    <p class="subtitle">Graduate Student · [Department Name] · [University Name]</p>
+    <p class="subtitle">Graduate Student · PSQF · University of Iowa</p>
     <p>
-      Welcome! I am a graduate student in [field], broadly interested in 
-      [your research interests]. My work sits at the intersection of 
-      [theme A] and [theme B], with a particular focus on [specific area].
+      Welcome! I am a graduate student in Educational Measurement, broadly interested in multilevel and longitudinal analyses, psychometrics, and causal inference. My work sits at the intersection of educational outcomes and quantitative methods, with a particular focus on Chilean higher education.
     </p>
     <p>
-      Before graduate school, I [brief background — e.g., worked at / studied at / 
-      was based in]. I am currently working on [current project or dissertation chapter].
+      Before graduate school, I studied Social Work at the Universidad del Bio-Bio, Chile, and worked as a research assistant at the Centro de Investigación Educativa CIDCIE in the same university.
+      </p>
+      <p>      
+      I am currently working on my transition from graduate student to postdoctoral researcher/professor.
     </p>
   </div>
 </div>
 ```
 
 ::: {.section-title}
-Research Interests
+Main Research Interests
 :::
 
-[Interest 1] · [Interest 2] · [Interest 3] · [Interest 4]
+Performance on Standardized Tests · Indicators of Educational Quality · Longitudinal Study Designs · Causal Inference in Observational Studies
 
 ::: {.section-title}
 News & Updates
 :::
 
+**News coming soon**
+
+<!--
 **[Month Year]** — [Update, e.g., paper accepted, conference presentation, fellowship awarded]
-
-**[Month Year]** — [Update]
-
-**[Month Year]** — [Update]
+-->
