@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Bladimir Padilla"
+  description: "Graduate Student in Social Sciences"
+  favicon: ""
+  navbar:
+    left:
+      - text: "About"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/yourusername
+        aria-label: GitHub
+      - icon: twitter
+        href: https://twitter.com/yourusername
+        aria-label: Twitter
+  page-footer:
+    center: |
+      © 2025 Bladimir Padilla · Built with [Quarto](https://quarto.org)
+
+format:
+  html:
+    theme:
+      - flatly
+    css: styles.css
+    toc: false
+    page-layout: article
+    link-external-newwindow: true

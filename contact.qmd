@@ -1,0 +1,40 @@
+---
+title: "Contact"
+---
+
+I welcome questions about my research, teaching, or potential collaborations. 
+The best way to reach me is by email.
+
+::: {.section-title}
+Get in Touch
+:::
+
+<ul class="contact-list">
+  <li>📧 <strong>Email:</strong> <a href="mailto:youremail@university.edu">youremail@university.edu</a></li>
+  <li>🏛 <strong>Office:</strong> [Building Name], Room [Number], [University Name]</li>
+  <li>📍 <strong>Address:</strong><br>
+    Department of [Name]<br>
+    [University Name]<br>
+    [Street Address]<br>
+    [City, State, ZIP]
+  </li>
+</ul>
+
+::: {.section-title}
+Online Profiles
+:::
+
+<ul class="contact-list">
+  <li>🔗 <a href="https://github.com/yourusername" target="_blank">GitHub</a></li>
+  <li>🔗 <a href="https://scholar.google.com/citations?user=YOURID" target="_blank">Google Scholar</a></li>
+  <li>🔗 <a href="https://orcid.org/0000-0000-0000-0000" target="_blank">ORCID</a></li>
+  <li>🔗 <a href="https://twitter.com/yourusername" target="_blank">Twitter / X</a></li>
+</ul>
+
+::: {.section-title}
+Note on Response Time
+:::
+
+I try to respond to all emails within a few business days. If you are a 
+student reaching out about coursework or office hours, please also check 
+your course site for posted materials before writing.

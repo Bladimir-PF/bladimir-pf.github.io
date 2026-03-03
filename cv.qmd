@@ -1,0 +1,67 @@
+---
+title: "CV"
+---
+
+You can download my full CV as a PDF below.
+
+[<a href="cv.pdf" class="btn btn-primary" style="background:#4a6fa5;border-color:#4a6fa5;font-family:sans-serif;font-size:0.9rem;">⬇ Download CV (PDF)</a>]{.download-btn}
+
+---
+
+*Alternatively, a selected overview is provided below.*
+
+::: {.section-title}
+Education
+:::
+
+**[Degree, e.g., Ph.D. in Political Science]** *(expected [Year])*
+[University Name], [City, Country]
+Dissertation: *"[Title or Placeholder]"*
+Committee: [Advisor Name], [Member], [Member]
+
+**[M.A. / B.A. / etc.]** ([Year])
+[University Name], [City, Country]
+
+::: {.section-title}
+Research & Employment
+:::
+
+**[Position Title]** · [Institution] · [Year–Year]
+
+**[Position Title]** · [Institution] · [Year–Year]
+
+::: {.section-title}
+Publications
+:::
+
+See the [Publications](publications.qmd) page.
+
+::: {.section-title}
+Teaching Experience
+:::
+
+See the [Teaching](teaching.qmd) page.
+
+::: {.section-title}
+Fellowships & Awards
+:::
+
+- [Award / Fellowship Name] · [Institution] · [Year]
+- [Award / Fellowship Name] · [Institution] · [Year]
+
+::: {.section-title}
+Conference Presentations
+:::
+
+- "[Paper Title]." [Conference Name]. [City]. [Year].
+- "[Paper Title]." [Conference Name]. [City]. [Year].
+
+::: {.section-title}
+Skills
+:::
+
+**Methods:** [e.g., Regression analysis, Survey experiments, Qualitative interviews]
+
+**Software:** [e.g., R, Stata, Python, QGIS]
+
+**Languages:** [e.g., Spanish (native), English (fluent), Portuguese (proficient)]

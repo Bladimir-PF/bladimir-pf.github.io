@@ -1,0 +1,53 @@
+---
+title: "Teaching"
+---
+
+I am committed to accessible, evidence-based teaching. My courses emphasize 
+critical thinking, real-world application of social science methods, and 
+inclusive classroom practices.
+
+::: {.section-title}
+Courses Taught
+:::
+
+::: {.project-card}
+### [Course Name]
+**[Role: Instructor of Record / Teaching Assistant]** · [University] · [Semester, Year]
+
+[Brief description: What is the course about? Who is the audience — undergrad/grad? 
+What skills or ideas do students leave with?]
+
+::: {.tag}
+Undergraduate
+:::
+:::
+
+::: {.project-card}
+### [Course Name]
+**[Role]** · [University] · [Semester, Year]
+
+[Brief description.]
+
+::: {.tag}
+Graduate
+:::
+:::
+
+::: {.section-title}
+Teaching Philosophy
+:::
+
+[2–3 sentences describing your approach to teaching. What do you believe about 
+how students learn? What do you prioritize in the classroom?]
+
+> *"[An optional quote that captures your teaching values — your own or one you 
+> find inspiring.]*"
+
+::: {.section-title}
+Materials & Resources
+:::
+
+I make syllabi and selected course materials available below.
+
+- [Course Name] ([Semester Year]) — [<a href="#">Syllabus PDF</a>]
+- [Course Name] ([Semester Year]) — [<a href="#">Syllabus PDF</a>]

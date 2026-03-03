@@ -1,0 +1,29 @@
+---
+title: "Publications"
+bibliography: references.bib
+nocite: |
+  @*
+csl: apa.csl
+---
+
+Below is a list of my published work. For working papers and works in progress, 
+see the [Research](research.qmd) page.
+
+::: {.section-title}
+Peer-Reviewed Articles
+:::
+
+::: {#refs}
+:::
+
+---
+
+::: {.section-title}
+Other Writing
+:::
+
+- **[Title]**. *[Outlet, e.g., The Monkey Cage / Policy Brief / Book Chapter]*. [Year]. [<a href="#">Link</a>]
+
+---
+
+*Last updated: `r format(Sys.Date(), "%B %Y")`*

@@ -1,0 +1,43 @@
+---
+title: "About"
+page-layout: article
+---
+
+```{=html}
+<div class="hero">
+  <div class="hero-photo">
+    <!-- Replace 'photo.jpg' with your actual photo -->
+    <img src="photo.jpg" alt="Bladimir Padilla" 
+         onerror="this.style.display='none'">
+  </div>
+  <div class="hero-text">
+    <h1>Bladimir Padilla</h1>
+    <p class="subtitle">Graduate Student · [Department Name] · [University Name]</p>
+    <p>
+      Welcome! I am a graduate student in [field], broadly interested in 
+      [your research interests]. My work sits at the intersection of 
+      [theme A] and [theme B], with a particular focus on [specific area].
+    </p>
+    <p>
+      Before graduate school, I [brief background — e.g., worked at / studied at / 
+      was based in]. I am currently working on [current project or dissertation chapter].
+    </p>
+  </div>
+</div>
+```
+
+::: {.section-title}
+Research Interests
+:::
+
+[Interest 1] · [Interest 2] · [Interest 3] · [Interest 4]
+
+::: {.section-title}
+News & Updates
+:::
+
+**[Month Year]** — [Update, e.g., paper accepted, conference presentation, fellowship awarded]
+
+**[Month Year]** — [Update]
+
+**[Month Year]** — [Update]

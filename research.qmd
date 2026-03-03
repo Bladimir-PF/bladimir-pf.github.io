@@ -1,0 +1,63 @@
+---
+title: "Research"
+---
+
+My research examines [broad framing of your research agenda — 1–2 sentences that 
+give a reader a clear sense of what you study and why it matters].
+
+::: {.section-title}
+Working Papers
+:::
+
+::: {.project-card}
+### [Paper Title]
+**[Co-author(s), if any]**
+
+[1–2 sentence abstract or description. What is the question? What do you find?]
+
+[<a href="#">Draft available upon request</a>]
+:::
+
+::: {.project-card}
+### [Paper Title]
+**[Co-author(s), if any]**
+
+[1–2 sentence abstract or description.]
+
+::: {.tag}
+Under Review
+:::
+:::
+
+::: {.section-title}
+Works in Progress
+:::
+
+::: {.project-card}
+### [Project Title]
+
+[Brief description of the project, data, or method.]
+
+::: {.tag}
+Data Collection
+:::
+:::
+
+::: {.project-card}
+### [Project Title]
+
+[Brief description.]
+
+::: {.tag}
+Early Stage
+:::
+:::
+
+::: {.section-title}
+Research Interests
+:::
+
+- [Substantive area 1, e.g., Political Behavior]
+- [Substantive area 2, e.g., Inequality & Redistribution]
+- [Methodological interest, e.g., Causal Inference, Survey Experiments]
+- [Regional focus, e.g., Latin America]
