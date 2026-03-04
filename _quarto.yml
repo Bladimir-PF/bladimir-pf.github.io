@@ -3,12 +3,12 @@ project:
   output-dir: _site
 
 website:
-  title: "Home"
+  title: ""
   description: "Graduate Student in Social Sciences"
   favicon: ""
   navbar:
     left:
-      - text: "About"
+      - text: "Home"
         href: index.qmd
       - text: "Research"
         href: research.qmd
@@ -18,21 +18,6 @@ website:
         href: publications.qmd
       - text: "CV"
         href: cv.qmd
-      - text: "Contact"
-        href: contact.qmd
-    right:
-      - icon: github
-        href: https://github.com/Bladimir-PF
-        aria-label: GitHub
-      - icon: linkedin
-        href: https://www.linkedin.com/in/bladimir-padilla/
-        aria-label: LinkedIn
-      - icon: "RG"
-        href: https://www.researchgate.net/profile/Bladimir-Padilla-2
-        aria-label: ResearchGate
-      - icon: "iD"
-        href: https://orcid.org/0000-0003-0882-1818
-        aria-label: ORCID
   page-footer:
     center: |
       © 2026 Bladimir Padilla · Built with [Quarto](https://quarto.org)
@@ -41,7 +26,7 @@ format:
   html:
     theme:
       - flatly
-    css: styles.css
+    css: [styles.css, home-layout.css]
     toc: false
     page-layout: article
     link-external-newwindow: true

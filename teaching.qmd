@@ -2,7 +2,17 @@
 title: "Teaching"
 ---
 
-I am committed to accessible and relevant education in quantitative methods for social science research. My teaching practices emphasize critical thinking and knowledge appropriation among students.
+I am committed to accessible and relevant education in quantitative methods for social science research. Here you will find all the materials I have created and/or used during my teaching experience.
+
+::: {.section-title}
+Teaching Philosophy
+:::
+
+<a href="teaching ph (march 2026).docx">⬇ Download my teaching philosophy</a>
+
+My teaching philosophy is grounded in the idea that learning is a cumulative and reflective process, where students build on prior knowledge to develop complex skills and concepts. As an instructor in quantitative methodology, I focus on bridging students' existing knowledge with new material through individualized support, interactive review sessions, and open communication. My goal is to foster student autonomy by making statistical reasoning accessible, practical, and meaningful to each student's own research interests and background.
+
+> "We teach [...] what we do; we do [...] what we teach." — George Cobb (2014)
 
 ::: {.section-title}
 Courses Taught
@@ -30,16 +40,6 @@ Undergraduate
 Graduate
 :::
 :::
-
-::: {.section-title}
-Teaching Philosophy
-:::
-
-[2–3 sentences describing your approach to teaching. What do you believe about 
-how students learn? What do you prioritize in the classroom?]
-
-> *"[An optional quote that captures your teaching values — your own or one you 
-> find inspiring.]*"
 
 ::: {.section-title}
 Materials & Resources

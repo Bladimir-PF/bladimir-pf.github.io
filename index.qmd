@@ -1,46 +1,97 @@
 ---
-title: "About"
-page-layout: article
+title: "Home"
+page-layout: full
 ---
 
 ```{=html}
-<div class="hero">
-  <div class="hero-photo">
-    <!-- Replace 'photo.jpg' with your actual photo -->
-    <img src="bpMin.jpg" alt="Bladimir Padilla" 
-         onerror="this.style.display='none'">
-  </div>
-  <div class="hero-text">
+<div class="home-layout">
+
+  <!-- LEFT: Bio -->
+  <div class="home-left">
+    <div class="hero-photo">
+      <img src="bpMin.jpg" alt="Bladimir Padilla">
+    </div>
+
     <h1>Bladimir Padilla</h1>
     <p class="subtitle">Graduate Student · PSQF · University of Iowa</p>
+
+    <p>Hi,</p>
+
     <p>
-      Hi!
+      I am a graduate student in Educational Measurement and Statistics, broadly interested in
+      multilevel and longitudinal analyses, psychometrics, and causal inference. My work sits at
+      the intersection of educational outcomes and quantitative methods, with a particular focus
+      on Chilean higher education.
     </p>
+
     <p>
-      I am a graduate student in Educational Measurement and Statistics, broadly interested in multilevel and longitudinal analyses, psychometrics, and causal inference. My work sits at the intersection of educational outcomes and quantitative methods, with a particular focus on Chilean higher education.
+      Before graduate school, I studied Social Work at the Universidad del Bio-Bio, Chile, and
+      worked as a research assistant at the Centro de Investigación Educativa CIDCIE at the
+      same university.
     </p>
+
     <p>
-      Before graduate school, I studied Social Work at the Universidad del Bio-Bio, Chile, and worked as a research assistant at the Centro de Investigación Educativa CIDCIE at the same institution.
-      </p>
-      <p>      
       I am currently working on causal inference designs and meta-analysis in educational research.
     </p>
+
+    <div class="section-title">Research Interests</div>
+    <p>Multilevel Models · Longitudinal Analysis · Psychometrics · Causal Inference · Chilean Higher Education</p>
+
+    <div class="section-title">News & Updates</div>
+    <p><strong>News coming soon</strong>
+<!---
+    <p><strong>[Month Year]</strong> — [Update, e.g., paper accepted, conference presentation, fellowship awarded]</p>
+    <p><strong>[Month Year]</strong> — [Update]</p> --->
   </div>
+
+  <!-- RIGHT: Contact Card -->
+  <div class="home-right">
+    <div class="contact-card">
+      <!-- <img src="photo.jpg" alt="Bladimir Padilla" class="contact-photo">
+      <div class="contact-name">Bladimir Padilla</div>
+      <div class="contact-role">Graduate Student</div>
+      <div class="contact-dept">Psychological & Quantitative Foundations</div>
+      <div class="contact-uni">University of Iowa</div> -->
+      <div class="contact-name">Contact Information</div>
+
+      <hr class="contact-divider">
+
+      <ul class="contact-list">
+        <li>
+          <span class="contact-icon">✉</span>
+          <a href="mailto:gbpadilla@uiowa.edu">gbpadilla@uiowa.edu</a>
+        </li>
+        <li>
+          <span class="contact-icon">✉</span>
+          <a href="mailto:gpadilla@ubiobio.cl">gpadilla@ubiobio.cl</a>
+        </li>
+      </ul>
+
+      <hr class="contact-divider">
+
+      <div class="contact-links">
+        <a href="https://github.com/Bladimir-PF" target="_blank" title="GitHub">
+          <i class="bi bi-github"></i> GitHub
+        </a>
+        <a href="https://www.linkedin.com/in/bladimir-padilla/" target="_blank" title="LinkedIn">
+          <i class="bi bi-linkedin"></i> LinkedIn
+        </a>
+        <a href="https://scholar.google.com/citations?user=yNsLTlwAAAAJ&hl=en" target="_blank" title="Google Scholar">
+          <i class="bi bi-mortarboard"></i> Scholar
+        </a>
+        <a href="https://www.researchgate.net/profile/Bladimir-Padilla-2" target="_blank" title="ResearchGate">
+          <i class="bi bi-mortarboard"></i> ResearchGate
+        </a>
+        <a href="https://orcid.org/0000-0003-0882-1818" target="_blank" title="ORCID">
+          iD ORCID
+        </a>
+      </div>
+
+      <hr class="contact-divider">
+
+      <a href="academicCV (march 2026).pdf" class="cv-button">⬇ Download CV</a>
+    </div>
+  </div>
+
 </div>
 ```
-
-::: {.section-title}
-Main Research Interests
-:::
-
-Performance on Standardized Tests · Indicators of Educational Quality · Discussion of Quantitative Methods in Education
-
-::: {.section-title}
-News & Updates
-:::
-
-**News coming soon**
-
-<!--
-**[Month Year]** — [Update, e.g., paper accepted, conference presentation, fellowship awarded]
--->
