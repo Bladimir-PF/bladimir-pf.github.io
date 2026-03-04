@@ -1,13 +1,13 @@
 /* =============================================
    Bladimir Padilla – Academic Website Theme
-   Slate Blue · Clean & Minimal
+   Clean & Minimal · Georgia · Black
    ============================================= */
 
 /* --- Color Variables --- */
 :root {
   --accent: #2c2c2c;
   --accent-dark: #2c2c2c;
-  --accent-light: #d6e4f7;
+  --accent-light: #e0e0e0;
   --text-main: #2c2c2c;
   --text-muted: #6c757d;
   --bg: #ffffff;
@@ -16,15 +16,17 @@
 }
 
 /* --- Base Typography --- */
-body {
+* {
   font-family: 'Georgia', 'Times New Roman', serif;
+}
+
+body {
   color: var(--text-main);
   background-color: var(--bg);
   line-height: 1.75;
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Helvetica Neue', Arial, sans-serif;
   font-weight: 600;
   color: var(--text-main);
 }
@@ -41,7 +43,6 @@ p {
 }
 
 .navbar-brand {
-  font-family: 'Helvetica Neue', Arial, sans-serif;
   font-weight: 700;
   font-size: 1.15rem;
   color: var(--accent) !important;
@@ -50,7 +51,6 @@ p {
 
 .navbar-nav .nav-link {
   color: var(--text-main) !important;
-  font-family: 'Helvetica Neue', Arial, sans-serif;
   font-size: 0.9rem;
   padding: 0.4rem 0.8rem !important;
   transition: color 0.2s;
@@ -95,15 +95,17 @@ main {
 }
 
 .hero-text .subtitle {
-  font-family: 'Helvetica Neue', Arial, sans-serif;
   color: var(--text-muted);
   font-size: 1rem;
   margin-bottom: 1rem;
 }
 
+.subtitle {
+  font-family: 'Georgia', 'Times New Roman', serif !important;
+}
+
 /* --- Section Dividers --- */
 .section-title {
-  font-family: 'Helvetica Neue', Arial, sans-serif;
   font-size: 0.75rem;
   font-weight: 700;
   letter-spacing: 0.12em;
@@ -127,7 +129,7 @@ main {
 }
 
 .project-card:hover {
-  box-shadow: 0 2px 12px rgba(74, 111, 165, 0.10);
+  box-shadow: 0 2px 12px rgba(44, 44, 44, 0.10);
 }
 
 .project-card h3 {
@@ -140,7 +142,6 @@ main {
   display: inline-block;
   background: var(--accent-light);
   color: var(--accent-dark);
-  font-family: 'Helvetica Neue', Arial, sans-serif;
   font-size: 0.72rem;
   font-weight: 600;
   letter-spacing: 0.05em;
@@ -187,7 +188,6 @@ main {
 }
 
 .contact-list li {
-  font-family: 'Helvetica Neue', Arial, sans-serif;
   font-size: 0.95rem;
   padding: 0.4rem 0;
   color: var(--text-main);
@@ -216,7 +216,6 @@ a:hover {
 /* --- Footer --- */
 .nav-footer {
   border-top: 1px solid var(--border);
-  font-family: 'Helvetica Neue', Arial, sans-serif;
   font-size: 0.82rem;
   color: var(--text-muted);
   padding: 1.2rem 0;
@@ -233,5 +232,169 @@ a:hover {
 
   .hero-text p {
     max-width: 100%;
+  }
+}
+
+/* =============================================
+   HOME PAGE — Two-column layout
+   ============================================= */
+
+.home-layout {
+  display: grid;
+  grid-template-columns: 1fr 300px;
+  gap: 3rem;
+  align-items: start;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+/* --- Left: Bio --- */
+.home-left .hero-photo {
+  margin-bottom: 1.25rem;
+}
+
+.home-left .hero-photo img {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--accent-light);
+}
+
+.home-left h1 {
+  font-size: 1.9rem;
+  color: var(--accent);
+  margin-bottom: 0.2rem;
+}
+
+.home-left .subtitle {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  margin-bottom: 1.25rem;
+}
+
+/* --- Right: Contact Card --- */
+.contact-card {
+  position: sticky;
+  top: 5rem;
+  background: var(--bg-subtle);
+  border: 1px solid var(--border);
+  border-top: 4px solid var(--accent);
+  border-radius: 6px;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.contact-photo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--accent-light);
+  margin-bottom: 0.75rem;
+}
+
+.contact-name {
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: var(--text-main);
+  margin-bottom: 0.15rem;
+}
+
+.contact-role {
+  font-size: 0.85rem;
+  color: var(--accent);
+  font-weight: 600;
+  margin-bottom: 0.1rem;
+}
+
+.contact-dept {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin-bottom: 0.1rem;
+}
+
+.contact-uni {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+.contact-divider {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 1rem 0;
+}
+
+.contact-card .contact-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+}
+
+.contact-card .contact-list li {
+  font-size: 0.83rem;
+  padding: 0.3rem 0;
+  color: var(--text-main);
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+}
+
+.contact-card .contact-list a {
+  color: var(--accent);
+}
+
+.contact-icon {
+  flex-shrink: 0;
+}
+
+.contact-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.contact-links a {
+  font-size: 0.83rem;
+  color: var(--accent);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+}
+
+.contact-links a:hover {
+  text-decoration: underline;
+}
+
+.cv-button {
+  display: block;
+  background: var(--accent);
+  color: white !important;
+  text-decoration: none !important;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-top: 0.5rem;
+  transition: background 0.2s;
+}
+
+.cv-button:hover {
+  background: var(--accent-dark) !important;
+}
+
+/* --- Responsive --- */
+@media (max-width: 768px) {
+  .home-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .contact-card {
+    position: static;
   }
 }
