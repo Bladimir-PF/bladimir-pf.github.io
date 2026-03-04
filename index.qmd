@@ -7,20 +7,23 @@ page-layout: article
 <div class="hero">
   <div class="hero-photo">
     <!-- Replace 'photo.jpg' with your actual photo -->
-    <img src="photo.jpg" alt="Bladimir Padilla" 
+    <img src="bpMin.jpg" alt="Bladimir Padilla" 
          onerror="this.style.display='none'">
   </div>
   <div class="hero-text">
     <h1>Bladimir Padilla</h1>
     <p class="subtitle">Graduate Student · PSQF · University of Iowa</p>
     <p>
-      Welcome! I am a graduate student in Educational Measurement, broadly interested in multilevel and longitudinal analyses, psychometrics, and causal inference. My work sits at the intersection of educational outcomes and quantitative methods, with a particular focus on Chilean higher education.
+      Hi!
     </p>
     <p>
-      Before graduate school, I studied Social Work at the Universidad del Bio-Bio, Chile, and worked as a research assistant at the Centro de Investigación Educativa CIDCIE in the same university.
+      I am a graduate student in Educational Measurement and Statistics, broadly interested in multilevel and longitudinal analyses, psychometrics, and causal inference. My work sits at the intersection of educational outcomes and quantitative methods, with a particular focus on Chilean higher education.
+    </p>
+    <p>
+      Before graduate school, I studied Social Work at the Universidad del Bio-Bio, Chile, and worked as a research assistant at the Centro de Investigación Educativa CIDCIE at the same institution.
       </p>
       <p>      
-      I am currently working on my transition from graduate student to postdoctoral researcher/professor.
+      I am currently working on causal inference designs and meta-analysis in educational research.
     </p>
   </div>
 </div>
@@ -30,7 +33,7 @@ page-layout: article
 Main Research Interests
 :::
 
-Performance on Standardized Tests · Indicators of Educational Quality · Longitudinal Study Designs · Causal Inference in Observational Studies
+Performance on Standardized Tests · Indicators of Educational Quality · Discussion of Quantitative Methods in Education
 
 ::: {.section-title}
 News & Updates

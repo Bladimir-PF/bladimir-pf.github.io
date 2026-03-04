@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I am committed to accessible, evidence-based teaching. My courses emphasize critical thinking, real-world application of social science methods, and inclusive classroom practices.\n\nCourses Taught\n\n\n[Course Name]\n[Role: Instructor of Record / Teaching Assistant] · [University] · [Semester, Year]\n[Brief description: What is the course about? Who is the audience — undergrad/grad? What skills or ideas do students leave with?]\n\nUndergraduate\n\n\n\n[Course Name]\n[Role] · [University] · [Semester, Year]\n[Brief description.]\n\nGraduate\n\n\n\nTeaching Philosophy\n\n[2–3 sentences describing your approach to teaching. What do you believe about how students learn? What do you prioritize in the classroom?]\n\n“[An optional quote that captures your teaching values — your own or one you find inspiring.]”\n\n\nMaterials & Resources\n\nI make syllabi and selected course materials available below.\n\n[Course Name] ([Semester Year]) — [Syllabus PDF]\n[Course Name] ([Semester Year]) — [Syllabus PDF]"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Below is a list of my published work. For working papers and works in progress, see the Research page.\n\nPeer-Reviewed Articles\n\n\n\nPadilla, B. (2024). [Your article title here]. [Journal Name], 00(0), 1–25. https://doi.org/10.xxxx/xxxxxx\n\n\nPadilla, B., & [Co-Author, F. N. (2023). [Another article title]. [Journal Name], 00(0), 1–30. https://doi.org/10.xxxx/xxxxxx\n\n\n\n\nOther Writing\n\n\n[Title]. [Outlet, e.g., The Monkey Cage / Policy Brief / Book Chapter]. [Year]. [Link]\n\n\nLast updated: r format(Sys.Date(), \"%B %Y\")"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can download my full CV as a PDF below.\n⬇ Download CV (PDF)\n\nAlternatively, a selected overview is provided below.\n\nEducation\n\n[Degree, e.g., Ph.D. in Political Science] (expected [Year]) [University Name], [City, Country] Dissertation: “[Title or Placeholder]” Committee: [Advisor Name], [Member], [Member]\n[M.A. / B.A. / etc.] ([Year]) [University Name], [City, Country]\n\nResearch & Employment\n\n[Position Title] · [Institution] · [Year–Year]\n[Position Title] · [Institution] · [Year–Year]\n\nPublications\n\nSee the Publications page.\n\nTeaching Experience\n\nSee the Teaching page.\n\nFellowships & Awards\n\n\n[Award / Fellowship Name] · [Institution] · [Year]\n[Award / Fellowship Name] · [Institution] · [Year]\n\n\nConference Presentations\n\n\n“[Paper Title].” [Conference Name]. [City]. [Year].\n“[Paper Title].” [Conference Name]. [City]. [Year].\n\n\nSkills\n\nMethods: [e.g., Regression analysis, Survey experiments, Qualitative interviews]\nSoftware: [e.g., R, Stata, Python, QGIS]\nLanguages: [e.g., Spanish (native), English (fluent), Portuguese (proficient)]"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I welcome questions about my research, teaching, or potential collaborations. The best way to reach me is by email.\n\nGet in Touch\n\n\n\n📧 Email: youremail@university.edu\n\n\n🏛 Office: [Building Name], Room [Number], [University Name]\n\n\n📍 Address: Department of [Name] [University Name] [Street Address] [City, State, ZIP]\n\n\n\nOnline Profiles\n\n\n\n🔗 GitHub\n\n\n🔗 Google Scholar\n\n\n🔗 ORCID\n\n\n🔗 Twitter / X\n\n\n\nNote on Response Time\n\nI try to respond to all emails within a few business days. If you are a student reaching out about coursework or office hours, please also check your course site for posted materials before writing."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "Bladimir Padilla\n    Graduate Student · PSQF · University of Iowa\n    \n      Welcome! I am a graduate student in Educational Measurement, broadly interested in multilevel and longitudinal analyses, psychometrics, and causal inference. My work sits at the intersection of educational outcomes and quantitative methods, with a particular focus on Chilean higher education.\n    \n    \n      Before graduate school, I studied Social Work at the Universidad del Bio-Bio, Chile, and worked as a research assistant at the Centro de Investigación Educativa CIDCIE in the same university.\n      \n            \n      I am currently working on my transition from graduate student to postdoctoral researcher/professor.\n    \n  \n\n\nMain Research Interests\n\nPerformance on Standardized Tests · Indicators of Educational Quality · Longitudinal Study Designs · Causal Inference in Observational Studies\n\nNews & Updates\n\nNews coming soon"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research examines [broad framing of your research agenda — 1–2 sentences that give a reader a clear sense of what you study and why it matters].\n\nWorking Papers\n\n\n[Paper Title]\n[Co-author(s), if any]\n[1–2 sentence abstract or description. What is the question? What do you find?]\n[Draft available upon request]\n\n\n[Paper Title]\n[Co-author(s), if any]\n[1–2 sentence abstract or description.]\n\nUnder Review\n\n\n\nWorks in Progress\n\n\n[Project Title]\n[Brief description of the project, data, or method.]\n\nData Collection\n\n\n\n[Project Title]\n[Brief description.]\n\nEarly Stage\n\n\n\nResearch Interests\n\n\n[Substantive area 1, e.g., Political Behavior]\n[Substantive area 2, e.g., Inequality & Redistribution]\n[Methodological interest, e.g., Causal Inference, Survey Experiments]\n[Regional focus, e.g., Latin America]"
+  }
+]

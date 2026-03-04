@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "Bladimir Padilla"
+  title: "Home"
   description: "Graduate Student in Social Sciences"
   favicon: ""
   navbar:

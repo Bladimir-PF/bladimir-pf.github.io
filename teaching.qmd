@@ -2,9 +2,7 @@
 title: "Teaching"
 ---
 
-I am committed to accessible, evidence-based teaching. My courses emphasize 
-critical thinking, real-world application of social science methods, and 
-inclusive classroom practices.
+I am committed to accessible and relevant education in quantitative methods for social science research. My teaching practices emphasize critical thinking and knowledge appropriation among students.
 
 ::: {.section-title}
 Courses Taught
