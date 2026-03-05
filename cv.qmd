@@ -4,31 +4,58 @@ title: "CV"
 
 You can download my full CV as a PDF below.
 
-[<a href="cv.pdf" class="btn btn-primary" style="background:#4a6fa5;border-color:#4a6fa5;font-family:sans-serif;font-size:0.9rem;">⬇ Download CV (PDF)</a>]{.download-btn}
+[<a href="academicCV.pdf" class="btn btn-primary" style="background:#2c2c2c;border-color:#2c2c2c;font-family:Georgia;font-size:0.9rem;">⬇ Download CV (PDF)</a>]{.download-btn}
 
 ---
-
-*Alternatively, a selected overview is provided below.*
 
 ::: {.section-title}
 Education
 :::
 
-**[Degree, e.g., Ph.D. in Political Science]** *(expected [Year])*
-[University Name], [City, Country]
-Dissertation: *"[Title or Placeholder]"*
-Committee: [Advisor Name], [Member], [Member]
+```{=html}
+<p>
+  <strong>Ph.D. in Psychological &amp; Quantitative Foundations</strong> <em>(expected May 2026)</em><br>
+  University of Iowa, Iowa City, USA<br>
+  Dissertation: <em>"In Progress"</em><br>
+  Committee: Ariel Aloe, TBD, TBD, TBD
+</p>
 
-**[M.A. / B.A. / etc.]** ([Year])
-[University Name], [City, Country]
+<p>
+  <strong>M.A. in Psychological &amp; Quantitative Foundations</strong> (December 2025)<br>
+  University of Iowa, Iowa City, USA<br>
+  Thesis: <em>"Conflated Random Slopes in Multilevel Analysis"</em><br>
+  Committee: Lesa Hoffman, Jonathan Templin, Ariel Aloe
+</p>
+
+<p>
+  <strong>Bachelor of Social Work</strong> (March 2018)<br>
+  Universidad del Bío-Bío, Concepción, Chile
+</p>
+```
 
 ::: {.section-title}
-Research & Employment
+Professional Experience
 :::
 
-**[Position Title]** · [Institution] · [Year–Year]
+```{=html}
+<p>
+  <strong>Graduate Research Assistant</strong> (2024–2026)<br>
+  Gender stereotypes and career vocation among students in USA, research project by Dr. Rong Su<br>
+  Tippie Business College, University of Iowa, USA
+</p>
 
-**[Position Title]** · [Institution] · [Year–Year]
+<p>
+  <strong>Graduate Teaching Assistant</strong> (2022–2025)<br>
+  Advanced quantitative methods courses, University of Iowa, USA<br>
+  PSQF 6246: Design of Experiments · PSQF 6249: Factor Analysis and SEM · PSQF 6270: Generalized Linear Models · PSQF 6271: Longitudinal Multilevel Models · PSQF 7375: Bayesian Psychometric Modeling · PSQF 6272: Clustered Multilevel Analysis
+</p>
+
+<p>
+  <strong>Researcher &amp; Lecturer</strong> (2018–2021)<br>
+  Researcher at Centro de Investigación Educativa CIDCIE, Universidad del Bio-Bio, Chile<br>
+  Lecturer in Quantitative Data Analysis Techniques and Quantitative Data Collection Techniques, Universidad del Bio-Bio, Chile
+</p>
+```
 
 ::: {.section-title}
 Publications
@@ -43,25 +70,27 @@ Teaching Experience
 See the [Teaching](teaching.qmd) page.
 
 ::: {.section-title}
-Fellowships & Awards
+Awards & Fellowships
 :::
 
-- [Award / Fellowship Name] · [Institution] · [Year]
-- [Award / Fellowship Name] · [Institution] · [Year]
+- **Outstanding Teaching Assistant Award** · University of Iowa · 2025
+- **T. Anne Cleary Psychological Research Scholarship** · University of Iowa · 2024
+- **Blommers-Hieronymus-Feldt Fellowship** · College of Education, University of Iowa · 2023
+- **Equal Opportunities Scholarship (BIO)** · Fulbright Commission & ANID, Chile · 2018
+- **Universidad del Bio-Bio Award** · Universidad del Bio-Bio · 2018
 
 ::: {.section-title}
 Conference Presentations
 :::
 
-- "[Paper Title]." [Conference Name]. [City]. [Year].
-- "[Paper Title]." [Conference Name]. [City]. [Year].
+**2025**
+
+- Padilla, B., & Hoffman, L. (October). *Conflated random slopes in multilevel analysis.* Poster presentation at the annual meeting of the Society for Multivariate Experimental Psychology (SMEP), South Bend, Indiana.
+- Padilla, B., & Hoffman, L. (July). *Avoiding conflated random slopes in multilevel analysis.* Poster presentation at the annual meeting of the Psychometric Society (IMPS), Minneapolis, Minnesota.
+- Su, R., Padilla, B., & Lowery, N. (July). *The influence of societal gender equality on career interest gender gaps.* Presentation at the annual meeting of the Academy of Management (AOM), Copenhagen, Denmark.
 
 ::: {.section-title}
-Skills
+Software
 :::
 
-**Methods:** [e.g., Regression analysis, Survey experiments, Qualitative interviews]
-
-**Software:** [e.g., R, Stata, Python, QGIS]
-
-**Languages:** [e.g., Spanish (native), English (fluent), Portuguese (proficient)]
+**R/RStudio** (advanced) · **STATA** (intermediate) · **Mplus** (intermediate)

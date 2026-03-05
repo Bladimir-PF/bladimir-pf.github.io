@@ -18,6 +18,9 @@ My teaching philosophy is grounded in the idea that learning is a cumulative and
 Courses Taught
 :::
 
+**In Progress**
+
+<!---
 ::: {.project-card}
 ### [Course Name]
 **[Role: Instructor of Record / Teaching Assistant]** · [University] · [Semester, Year]
@@ -44,8 +47,4 @@ Graduate
 ::: {.section-title}
 Materials & Resources
 :::
-
-I make syllabi and selected course materials available below.
-
-- [Course Name] ([Semester Year]) — [<a href="#">Syllabus PDF</a>]
-- [Course Name] ([Semester Year]) — [<a href="#">Syllabus PDF</a>]
+--->

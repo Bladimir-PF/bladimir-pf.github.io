@@ -89,7 +89,7 @@ page-layout: full
 
       <hr class="contact-divider">
 
-      <a href="academicCV (march 2026).pdf" class="cv-button">⬇ Download CV</a>
+      <a href="academicCV.pdf" class="cv-button">⬇ Download CV</a>
     </div>
   </div>
 

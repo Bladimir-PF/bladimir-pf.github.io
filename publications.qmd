@@ -1,21 +1,27 @@
 ---
 title: "Publications"
 bibliography: references.bib
-csl: apaYear.csl
+csl: apa-by-year.csl
 nocite: |
-  @*
+  @padilla2026multilevel, @padilla2025socioeconomic, @padilla2023evaluacion, @padilla2023seguimiento
 ---
 
-Below is a list of my published work. For working papers and works in progress,
-see the [Research](research.qmd) page.
-
 ::: {.section-title}
-Peer-Reviewed Articles
+Selected Publications
 :::
+
+A selection of my work is listed below. For a complete list of publications and full-text access, visit my <a href="https://www.researchgate.net/profile/Bladimir-Padilla-2" target="_blank">ResearchGate profile</a>.
 
 ::: {#refs}
 :::
 
----
+::: {.section-title}
+Thesis
+:::
 
-*Last updated: `{today}`*
+::: {.project-card}
+### Master's thesis
+**Padilla, B.** (2025). *Conflated Random Slopes in Multilevel Analysis*. University of Iowa.
+
+[<a href="padilla2025_maThesis.pdf" target="_blank">Download PDF</a>]
+:::
