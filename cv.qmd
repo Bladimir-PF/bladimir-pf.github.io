@@ -6,6 +6,8 @@ You can download my full CV as a PDF below.
 
 [<a href="academicCV.pdf" class="btn btn-primary" style="background:#2c2c2c;border-color:#2c2c2c;font-family:Georgia;font-size:0.9rem;">⬇ Download CV (PDF)</a>]{.download-btn}
 
+You can see some relevant aspects of my professional career below.
+
 ---
 
 ::: {.section-title}
@@ -29,7 +31,7 @@ Education
 
 <p>
   <strong>Bachelor of Social Work</strong> (March 2018)<br>
-  Universidad del Bío-Bío, Concepción, Chile
+  Universidad del Bío-Bío, Chillán, Chile
 </p>
 ```
 

@@ -31,7 +31,7 @@ page-layout: full
     </p>
 
     <p>
-      I am currently working on causal inference designs and meta-analysis in educational research.
+      I am currently working on multilevel and longitudinal analysis, causal inference designs, and meta-analysis in educational research.
     </p>
 
     <div class="section-title">Research Interests</div>
