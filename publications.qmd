@@ -23,5 +23,5 @@ Thesis
 ### Master's thesis
 **Padilla, B.** (2025). *Conflated Random Slopes in Multilevel Analysis*. University of Iowa.
 
-[<a href="padilla2025_maThesis.pdf" target="_blank">Download PDF</a>]
+[<a href="padilla2025-maThesis.pdf" target="_blank">You can the full document here (PDF)</a>]
 :::
