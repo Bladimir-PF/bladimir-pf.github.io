@@ -89,7 +89,7 @@ page-layout: full
 
       <hr class="contact-divider">
 
-      <a href="academicCV.pdf" class="cv-button">⬇ Download CV</a>
+      <a href="academicCV.pdf" target="_blank" class="cv-button">⬇ Download CV</a>
     </div>
   </div>
 

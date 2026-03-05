@@ -19,7 +19,7 @@ Paper dedicated to the multilevel analysis of PAES 2025 test scores in reading p
 
 ::: {.project-card}
 ### Exploring the Probabilities of Being Admitted to Selective Universities in Chile in 2022
-**Rodríguez, C., Padilla, B., Mojoyinola, M., & Romero, David.**
+**Rodríguez, C., Padilla, B., Mojoyinola, M., & Romero, D.**
 
 This paper analyzes the admission results of Chilean students who participated in the selective higher education admission process in 2022 by means of a binary logistic regression model using academic and non-academic predictors. The results show that non-academic attributes were relevant predictors of the probability of admission into selective universities, especially the students’ family income quintile and school sector, which challenges the principle of fairness among students.
 

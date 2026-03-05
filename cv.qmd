@@ -4,11 +4,9 @@ title: "CV"
 
 You can download my full CV as a PDF below.
 
-[<a href="academicCV.pdf" class="btn btn-primary" style="background:#2c2c2c;border-color:#2c2c2c;font-family:Georgia;font-size:0.9rem;">⬇ Download CV (PDF)</a>]{.download-btn}
+[<a href="academicCV.pdf" target="_blank" class="btn btn-primary" style="background:#2c2c2c;border-color:#2c2c2c;font-family:Georgia;font-size:0.9rem;">⬇ Download CV (PDF)</a>]{.download-btn}
 
 You can see some relevant aspects of my professional career below.
-
----
 
 ::: {.section-title}
 Education
@@ -75,21 +73,59 @@ See the [Teaching](teaching.qmd) page.
 Awards & Fellowships
 :::
 
-- **Outstanding Teaching Assistant Award** · University of Iowa · 2025
-- **T. Anne Cleary Psychological Research Scholarship** · University of Iowa · 2024
-- **Blommers-Hieronymus-Feldt Fellowship** · College of Education, University of Iowa · 2023
-- **Equal Opportunities Scholarship (BIO)** · Fulbright Commission & ANID, Chile · 2018
-- **Universidad del Bio-Bio Award** · Universidad del Bio-Bio · 2018
+```{=html}
+<p>
+  <strong>Outstanding Teaching Assistant Award</strong> (2025)<br>
+  University of Iowa, USA
+</p>
+
+<p>
+  <strong>T. Anne Cleary Psychological Research Scholarship</strong> (2024)<br>
+  University of Iowa, USA
+</p>
+
+<p>
+  <strong>Blommers-Hieronymus-Feldt Fellowship</strong> (2023)<br>
+  University of Iowa, USA
+</p>
+
+<p>
+  <strong>Equal Opportunities Scholarship (BIO)</strong> (2018)<br>
+  Fulbright Commission & National Research and Development Agency (ANID), Chile
+</p>
+
+<p>
+  <strong>Universidad del Bio-Bio Award</strong> (2018)<br>
+  Universidad del Bio-Bio, Chile
+</p>
+```
 
 ::: {.section-title}
 Conference Presentations
 :::
 
-**2025**
+```{=html}
+<p>
+  <strong>Conflated random slopes in multilevel analysis</strong> (October 2025)<br>
+  Padilla, B., & Hoffman, L.<br>
+  Poster presentation at the annual meeting of the Society for Multivariate Experimental Psychology (SMEP)<br>
+  South Bend, Indiana.
+</p>
 
-- Padilla, B., & Hoffman, L. (October). *Conflated random slopes in multilevel analysis.* Poster presentation at the annual meeting of the Society for Multivariate Experimental Psychology (SMEP), South Bend, Indiana.
-- Padilla, B., & Hoffman, L. (July). *Avoiding conflated random slopes in multilevel analysis.* Poster presentation at the annual meeting of the Psychometric Society (IMPS), Minneapolis, Minnesota.
-- Su, R., Padilla, B., & Lowery, N. (July). *The influence of societal gender equality on career interest gender gaps.* Presentation at the annual meeting of the Academy of Management (AOM), Copenhagen, Denmark.
+<p>
+  <strong>Avoiding conflated random slopes in multilevel analysis</strong> (July 2025)<br>
+  Padilla, B., & Hoffman, L.<br>
+  Poster presentation at the annual meeting of the Psychometric Society (IMPS)<br>
+  Minneapolis, Minnesota.
+</p>
+
+<p>
+  <strong>The influence of societal gender equality on career interest gender gaps</strong> (July 2021)<br>
+  Su, R., Padilla, B., & Lowery, N.<br>
+  Presentation at the annual meeting of the Academy of Management (AOM)<br>
+  Copenhagen, Denmark.
+</p>
+```
 
 ::: {.section-title}
 Software
