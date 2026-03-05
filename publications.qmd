@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 bibliography: references.bib
-csl: apa.csl
+csl: apaYear.csl
 nocite: |
   @*
 ---
@@ -18,4 +18,4 @@ Peer-Reviewed Articles
 
 ---
 
-*Last updated: `r format(Sys.Date(), "%B %Y")`*
+*Last updated: `{today}`*
