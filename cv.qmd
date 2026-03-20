@@ -132,3 +132,5 @@ Software
 :::
 
 **R/RStudio** (advanced) · **STATA** (intermediate) · **Mplus** (intermediate)
+
+<a href="#top" class="back-to-top">↑ Back to top</a>

@@ -2,13 +2,17 @@
 title: "Teaching"
 ---
 
-I am committed to accessible and relevant education in quantitative methods for social science research. Here you will find all the materials I have created and/or used during my teaching experience.
+::: {.section-title}
+Teaching
+:::
+
+I am committed to transparency and accessibility in my work. In this section, you will find all the materials I have created for my teaching activities. If you have any questions about these materials, please feel free to contact me.
 
 ::: {.section-title}
 Teaching Philosophy
 :::
 
-<a href="teachingStatement.pdf" target="_blank">⬇ You can read my teaching philosophy statement here.</a>
+<a href="teachingStatement.pdf" target="_blank">⬇ You can read my Teaching Philosophy Statement here.</a>
 
 My teaching philosophy is grounded in the idea that learning is a cumulative and reflective process, where students build on prior knowledge to develop complex skills and concepts. As an instructor in quantitative methodology, I focus on bridging students' existing knowledge with new material through individualized support, interactive review sessions, and open communication. My goal is to foster student autonomy by making statistical reasoning accessible, practical, and meaningful to each student's own research interests and background.
 
@@ -20,29 +24,79 @@ My teaching philosophy is grounded in the idea that learning is a cumulative and
 ```
 
 ::: {.section-title}
-Courses Taught
+courses I have contributed to
 :::
 
-**In Progress**
+I have not yet had the opportunity to design and implement a course. However, I have been actively involved in several undergraduate and graduate courses. In addition, while pursuing the Certificate in College Teaching at the University of Iowa, I created several documents that outline my principles and ideas about teaching.
 
-<!---
+For your reference, here is a list of the courses in which I have served as a teaching assistant. I am grateful to the professors who have placed their trust in my teaching skills and abilities, and who have also helped me grow and improve as an educator.
+
 ::: {.project-card}
-### [Course Name]
-**[Role: Instructor of Record / Teaching Assistant]** · [University] · [Semester, Year]
+### PSQF 6272: Clustered Multilevel Analysis
+University of Iowa · Fall 2025<br>
+Supervisor: Dr. Lesa Hoffman
 
-[Brief description: What is the course about? Who is the audience — undergrad/grad? 
-What skills or ideas do students leave with?]
+A course focused on teaching multilevel analysis, its concepts, and its applications in the social sciences. It gradually covers different types of designs, models, and fixed/random effects.
 
 ::: {.tag}
-Undergraduate
+Graduate
 :::
 :::
 
 ::: {.project-card}
-### [Course Name]
-**[Role]** · [University] · [Semester, Year]
+### PSQF 7375: Bayesian Psychometric Modeling
+University of Iowa · Fall 2024<br>
+Supervisor: Dr. Jonathan Templin
 
-[Brief description.]
+A course focused on teaching psychometric modeling using Bayesian methods. It covers the principles of the Bayesian framework and how to apply it to various statistical models.
+
+::: {.tag}
+Graduate
+:::
+:::
+
+::: {.project-card}
+### PSQF 6271: Longitudinal Multilevel Models
+University of Iowa · Fall 2024<br>
+Supervisor: Dr. Lesa Hoffman
+
+A course focused on teaching multilevel analysis for longitudinal data, covering different types of alternative variance-covariance structures and fixed/random effects.
+
+::: {.tag}
+Graduate
+:::
+:::
+
+::: {.project-card}
+### PSQF 6270: Generalized Linear Models
+University of Iowa · Fall 2023, 24, 25<br>
+Supervisor: Dr. Lesa Hoffman
+
+A course focused on teaching generalized linear models, covering different types of models (e.g., logistic regression, Poisson regression) and their applications in the social sciences.
+
+::: {.tag}
+Graduate
+:::
+:::
+
+::: {.project-card}
+### PSQF 6249: Factor Analysis and Structural Equation Modeling
+University of Iowa · Spring 2024<br>
+Supervisor: Dr. Lesa Hoffman
+
+A course focused on teaching factor analysis and structural equation modeling, covering different types of models (e.g., confirmatory factor analysis, path analysis) and their applications in the social sciences.
+
+::: {.tag}
+Graduate
+:::
+:::
+
+::: {.project-card}
+### PSQF 6246: Design of Experiments
+University of Iowa · Fall 2022, 23<br>
+Supervisor: Dr. Ariel Aloe
+
+A course focused on teaching the design of experiments, covering different types of experimental designs (e.g., randomized controlled trials, factorial designs) and their applications in the social and health sciences.
 
 ::: {.tag}
 Graduate
@@ -50,6 +104,11 @@ Graduate
 :::
 
 ::: {.section-title}
-Materials & Resources
+Pedagogical Content Knowledge (PCK)
 :::
---->
+
+In 2024, I worked on a short version of my PCK for a quantitative methods course for social work students at my alma mater. This document outlines the key components of my PCK, including my understanding of the subject matter, my beliefs about teaching and learning, and my strategies for effectively conveying complex quantitative concepts to students with diverse backgrounds and levels of prior knowledge.
+
+<a href="PCK___Spring_2024.pdf" target="_blank">⬇ You can read the document here.</a>
+
+<a href="#top" class="back-to-top">↑ Back to top</a>
