@@ -39,10 +39,10 @@ Works in Progress
 :::
 
 ::: {.project-card}
-### Precautions in the Use of Propensity Scores in Educational Research
+### On the Implications of Adjusting for Confounders, Colliders, and Mediators: A Tutorial Using Propensity Scores and ANCOVA
 **Padilla, B., & Aloe, A.**
 
-This paper presents arguments and examples regarding the precautions that researchers interested in using propensity scores should consider in accordance with the presence of confounders, colliders, and mediators in their causal structural models.
+This paper presents arguments and examples regarding the precautions that researchers interested in using propensity scores and ANCOVA should consider in accordance with the presence of confounders, colliders, and mediators in their causal models.
 
 ::: {.tag}
 Early Stage
