@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+
 /* =============================================
    Bladimir Padilla – Academic Website Theme
-   Clean & Minimal · Georgia · Black
+   Clean & Minimal · Fira Code · Black
    ============================================= */
 
 /* --- Color Variables --- */
@@ -17,18 +19,30 @@
 
 /* --- Base Typography --- */
 * {
-  font-family: 'Georgia', 'Times New Roman', serif;
+  font-family: 'Fira Code', monospace !important;
 }
 
 body {
   color: var(--text-main);
   background-color: var(--bg);
   line-height: 1.75;
+  font-size: 12pt;
 }
 
-h1, h2, h3, h4 {
+h1 {
+  font-size: 16pt !important;
   font-weight: 600;
   color: var(--text-main);
+}
+
+h2, h3, h4 {
+  font-size: 12pt !important;
+  font-weight: 600;
+  color: var(--text-main);
+}
+
+.subtitle {
+  font-size: 10pt !important;
 }
 
 p {
@@ -52,13 +66,19 @@ p {
 .navbar-nav .nav-link {
   color: var(--text-main) !important;
   font-size: 0.9rem;
+  font-weight: 700;
   padding: 0.4rem 0.8rem !important;
   transition: color 0.2s;
 }
 
-.navbar-nav .nav-link:hover,
-.navbar-nav .nav-link.active {
+.navbar-nav .nav-link:hover {
   color: var(--accent) !important;
+}
+
+.navbar-nav .nav-link.active {
+  background-color: #e0e0e0;
+  border-radius: 4px;
+  color: var(--text-main) !important;
 }
 
 /* --- Page Layout --- */
@@ -89,24 +109,19 @@ main {
 }
 
 .hero-text h1 {
-  font-size: 2rem;
   margin-bottom: 0.25rem;
   color: var(--accent);
 }
 
 .hero-text .subtitle {
   color: var(--text-muted);
-  font-size: 1rem;
   margin-bottom: 1rem;
-}
-
-.subtitle {
-  font-family: 'Georgia', 'Times New Roman', serif !important;
 }
 
 /* --- Section Dividers --- */
 .section-title {
-  font-size: 0.75rem;
+  font-family: 'Fira Code', monospace !important;
+  font-size: 1rem;
   font-weight: 700;
   letter-spacing: 0.12em;
   text-transform: uppercase;
@@ -133,7 +148,6 @@ main {
 }
 
 .project-card h3 {
-  font-size: 1rem;
   margin-bottom: 0.3rem;
   color: var(--text-main);
 }
@@ -161,7 +175,6 @@ main {
   border-bottom: none;
 }
 
-/* Override Quarto references list */
 #refs {
   margin-top: 0 !important;
 }
@@ -169,7 +182,6 @@ main {
 #refs .csl-entry {
   border-bottom: 1px solid var(--border);
   padding: 1rem 0;
-  font-size: 0.95rem;
   line-height: 1.6;
 }
 
@@ -188,7 +200,6 @@ main {
 }
 
 .contact-list li {
-  font-size: 0.95rem;
   padding: 0.4rem 0;
   color: var(--text-main);
 }
@@ -220,6 +231,25 @@ a:hover {
   color: var(--text-muted);
   padding: 1.2rem 0;
   background: var(--bg);
+}
+
+/* --- Back to Top Button --- */
+.back-to-top {
+  display: inline-block;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  text-decoration: none;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 0.2rem 0.6rem;
+  margin-top: 1.5rem;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+.back-to-top:hover {
+  color: var(--text-main);
+  border-color: var(--text-main);
+  text-decoration: none;
 }
 
 /* --- Responsive --- */
@@ -263,14 +293,12 @@ a:hover {
 }
 
 .home-left h1 {
-  font-size: 1.9rem;
   color: var(--accent);
   margin-bottom: 0.2rem;
 }
 
 .home-left .subtitle {
   color: var(--text-muted);
-  font-size: 0.95rem;
   margin-bottom: 1.25rem;
 }
 
@@ -398,30 +426,4 @@ a:hover {
   .contact-card {
     position: static;
   }
-}
-
-.navbar-nav .nav-link.active {
-  background-color: #e0e0e0;
-  border-radius: 4px;
-  color: var(--text-main) !important;
-}
-
-/* --- Back to Top Button --- */
-.back-to-top {
-  display: inline-block;
-  font-size: 0.75rem;
-  color: var(--text-muted);
-  text-decoration: none;
-  border: 1px solid var(--border);
-  border-radius: 4px;
-  padding: 0.2rem 0.6rem;
-  margin-top: 1.5rem;
-  font-family: 'Georgia', serif;
-  transition: color 0.2s, border-color 0.2s;
-}
-
-.back-to-top:hover {
-  color: var(--text-main);
-  border-color: var(--text-main);
-  text-decoration: none;
 }

@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Bladimir | About"
 page-layout: full
 ---
 
@@ -13,48 +13,38 @@ page-layout: full
     </div>
 
     <h1>Bladimir Padilla</h1>
-    <p class="subtitle">PhD Candidate · Psychological & Quantitative Foundations · University of Iowa</p>
+    <p class="subtitle">PhD Candidate · Psychological &amp; Quantitative Foundations · University of Iowa</p>
 
     <p>
-      Hi,
-    </p>
-
-    <p>
-      I am a graduate student in Educational Measurement and Statistics, broadly interested in
+      Hi! I am a graduate student in Educational Measurement and Statistics, broadly interested in
       multilevel and longitudinal analyses, psychometrics, and causal inference. My work sits at
       the intersection of educational outcomes and quantitative methods, with a particular focus
       on Chilean higher education.
     </p>
 
     <p>
-      Before graduate school, I studied Social Work at the Universidad del Bio-Bio, Chile, and
-      worked as a researcher at the Centro de Investigación Educativa CIDCIE at the
-      same university.
+      Before graduate school, I studied Social Work at the Universidad del Bío-Bío, Chile, and
+      worked as a researcher at the Centro de Investigación Educativa CIDCIE at the same university.
     </p>
 
     <div class="section-title">Research Interests</div>
-<p><strong>Tools:</strong> Multilevel Analysis · Longitudinal Analysis · Causal Inference · Psychometrics</p>
-<p><strong>Topics:</strong> Higher Education Access & Equity · Educational Quality & School Climate · Quantitative Methodology Training · Vocational Interests & Career Choice </p>
+    <p><strong>Tools:</strong> Multilevel Analysis · Longitudinal Analysis · Causal Inference · Psychometrics</p>
+    <p><strong>Topics:</strong> Higher Education Access &amp; Equity · Educational Quality &amp; School Climate · Quantitative Methods</p>
 
-    <div class="section-title">News & Updates</div>
-    <p><strong>News coming soon</strong>
-<!---
-    <p><strong>[Month Year]</strong> — [Update, e.g., paper accepted, conference presentation, fellowship awarded]</p>
-    <p><strong>[Month Year]</strong> — [Update]</p> --->
+    <div class="section-title">News &amp; Updates</div>
+    <p><strong>News coming soon.</strong></p>
+
   </div>
 
   <!-- RIGHT: Contact Card -->
   <div class="home-right">
     <div class="contact-card">
-      <!-- <img src="photo.jpg" alt="Bladimir Padilla" class="contact-photo">
-      <div class="contact-name">Bladimir Padilla</div>
-      <div class="contact-role">Graduate Student</div>
-      <div class="contact-dept">Psychological & Quantitative Foundations</div>
-      <div class="contact-uni">University of Iowa</div> -->
-      <div class="contact-name">Contact Information</div>
+
+      <div class="contact-name">Contact Info</div>
 
       <hr class="contact-divider">
 
+      <div class="contact-role">Email</div>
       <ul class="contact-list">
         <li>
           <span class="contact-icon">✉</span>
@@ -68,27 +58,24 @@ page-layout: full
 
       <hr class="contact-divider">
 
+      <div class="contact-role">Profiles</div>
       <div class="contact-links">
-        <a href="https://github.com/Bladimir-PF" target="_blank" title="GitHub">
+        <a href="https://github.com/Bladimir-PF" target="_blank">
           <i class="bi bi-github"></i> GitHub
         </a>
-        <a href="https://www.linkedin.com/in/bladimir-padilla/" target="_blank" title="LinkedIn">
+        <a href="https://www.linkedin.com/in/bladimir-padilla/" target="_blank">
           <i class="bi bi-linkedin"></i> LinkedIn
         </a>
-        <a href="https://scholar.google.com/citations?user=yNsLTlwAAAAJ&hl=en" target="_blank" title="Google Scholar">
-          <i class="bi bi-mortarboard"></i> Scholar
+        <a href="https://scholar.google.com/citations?user=yNsLTlwAAAAJ&hl=en" target="_blank">
+          <i class="bi bi-mortarboard"></i> Google Scholar
         </a>
-        <a href="https://www.researchgate.net/profile/Bladimir-Padilla-2" target="_blank" title="ResearchGate">
-          <i class="bi bi-mortarboard"></i> ResearchGate
+        <a href="https://www.researchgate.net/profile/Bladimir-Padilla-2" target="_blank">
+          <i class="bi bi-journal-text"></i> ResearchGate
         </a>
-        <a href="https://orcid.org/0000-0003-0882-1818" target="_blank" title="ORCID">
+        <a href="https://orcid.org/0000-0003-0882-1818" target="_blank">
           iD ORCID
         </a>
       </div>
-
-      <hr class="contact-divider">
-
-      <a href="academicCV.pdf" target="_blank" class="cv-button">⬇ Download CV</a>
     </div>
   </div>
 

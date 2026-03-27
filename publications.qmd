@@ -1,20 +1,16 @@
 ---
-title: "Publications"
+title: "Bladimir | Publications"
 bibliography: references.bib
 csl: apa-by-year.csl
 nocite: |
   @padilla2026multilevel, @padilla2025socioeconomic, @padilla2023evaluacion, @padilla2023seguimiento
 ---
 
-::: {.section-title}
-Publications
-:::
+I began working in research in 2015, during my third year of the Social Work program at the Universidad del Bío-Bío. My first position was as a research assistant at the Centro de Investigación Educativa CIDCIE, after being invited by Professor Carlos Rodríguez Garcés — my supervisor, mentor, and dear friend.
 
-I began working in research in 2015, during my third year of the Social Work program at the University of Bio-Bio. My first position was as a research assistant at the Centro de Investigación Educativa CIDCIE at the same university, after being invited by Professor Carlos Rodríguez Garcés (my supervisor, mentor, and dear friend).
+Since then, I have worked on many projects, particularly those related to education, although I have also enjoyed studying topics related to public safety and the philosophy of Michel Foucault — a more personal intellectual passion that I have not yet published on.
 
-Since then, I have worked on many projects, particularly those related to education, although I have also enjoyed studying topics related to public safety and the philosophy of Michel Foucault (this has been my most personal project, though I have not yet published any work on this passion).
-
-In this section, you will find a selection of my publications, including journal articles, book chapters, and my master's thesis. For a complete list of publications and full-text access, visit my <a href="https://www.researchgate.net/profile/Bladimir-Padilla-2" target="_blank">ResearchGate profile</a>.
+In this section, you will find a selection of my publications, including journal articles, book chapters, and my master's thesis. For a complete list and full-text access, visit my <a href="https://www.researchgate.net/profile/Bladimir-Padilla-2" target="_blank">ResearchGate profile</a>.
 
 ::: {.section-title}
 Selected Publications
@@ -28,10 +24,10 @@ Thesis
 :::
 
 ::: {.project-card}
-### Master's thesis
+### Master's Thesis
 **Padilla, B.** (2025). *Conflated Random Slopes in Multilevel Analysis*. University of Iowa.
 
-[<a href="padilla2025-maThesis.pdf" target="_blank">You can read the full document here (PDF)</a>]
+<a href="padilla2025-maThesis.pdf" target="_blank">⬇ Download full document (PDF)</a>
 :::
 
 <a href="#top" class="back-to-top">↑ Back to top</a>

@@ -4,11 +4,11 @@ project:
 
 website:
   title: ""
-  description: "Graduate Student in Social Sciences"
+  description: "Graduate Student in Educational Research and Statisticis"
   favicon: ""
   navbar:
     left:
-      - text: "Home"
+      - text: "About"
         href: index.qmd
       - text: "Research"
         href: research.qmd
@@ -24,9 +24,8 @@ website:
 
 format:
   html:
-    theme:
-      - flatly
-    css: [styles.css, home-layout.css]
+    theme: flatly
+    css: styles.css
     toc: false
     page-layout: article
     link-external-newwindow: true

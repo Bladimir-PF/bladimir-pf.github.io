@@ -1,10 +1,6 @@
 ---
-title: "Research"
+title: "Bladimir | Research"
 ---
-
-::: {.section-title}
-Research
-:::
 
 My research involves two main areas: **tools** (i.e., quantitative methods) and **topics** (i.e., substantive areas). I enjoy studying the tools I use in research, particularly their history, characteristics, advantages, and limitations. I am passionate about making these methods accessible through practical examples, and I enjoy working on tutorials and how-to projects. As for the topics, I have been primarily involved in higher education, studying performance on standardized tests and admission to selective higher education institutions.
 
@@ -15,19 +11,18 @@ Working Papers
 :::
 
 ::: {.project-card}
-### Multilevel analysis of PAES 2025 results
-<!-- **[Co-author(s), if any]** -->
+### Multilevel Analysis of PAES 2025 Results
 
-Paper dedicated to the multilevel analysis of PAES 2025 test scores in reading proficiency and mathematics proficiency M1.
+Paper dedicated to the multilevel analysis of PAES 2025 test scores in reading proficiency and mathematics proficiency (M1).
 
-[<a href="#">Draft available upon request</a>]
+<a href="#">Draft available upon request</a>
 :::
 
 ::: {.project-card}
 ### Exploring the Probabilities of Being Admitted to Selective Universities in Chile in 2022
 **Rodríguez, C., Padilla, B., Mojoyinola, M., & Romero, D.**
 
-This paper analyzes the admission results of Chilean students who participated in the selective higher education admission process in 2022 by means of a binary logistic regression model using academic and non-academic predictors. The results show that non-academic attributes were relevant predictors of the probability of admission into selective universities, especially the students’ family income quintile and school sector, which challenges the principle of fairness among students.
+This paper analyzes the admission results of Chilean students who participated in the selective higher education admission process in 2022 by means of a binary logistic regression model using academic and non-academic predictors. The results show that non-academic attributes were relevant predictors of the probability of admission into selective universities, especially the students' family income quintile and school sector, which challenges the principle of fairness among students.
 
 ::: {.tag}
 Under Review
@@ -53,7 +48,7 @@ Early Stage
 ### Multilevel Analysis for Longitudinal Data
 **Padilla, B., & Hoffman, L.**
 
-Book chapter dedicated to multilevel modeling approaches for Intensive Longitudinal Data, focusing on core concepts and offering recommendations on current best practices.
+Book chapter dedicated to multilevel modeling approaches for intensive longitudinal data, focusing on core concepts and offering recommendations on current best practices.
 
 ::: {.tag}
 Early Stage
@@ -61,14 +56,3 @@ Early Stage
 :::
 
 <a href="#top" class="back-to-top">↑ Back to top</a>
-
-<!--
-::: {.section-title}
-Additional Research Interests
-:::
-
-- [Substantive area 1, e.g., Political Behavior]
-- [Substantive area 2, e.g., Inequality & Redistribution]
-- [Methodological interest, e.g., Causal Inference, Survey Experiments]
-- [Regional focus, e.g., Latin America]
--->
