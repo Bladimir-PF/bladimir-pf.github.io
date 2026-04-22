@@ -65,6 +65,7 @@ Research Dissemination
 
 ::: {.project-card}
 ### Measuring Classroom Climate in Chilean Secondary Schools: A Proposal With Multilevel Measurement Models
+**Padilla, B.**
 
 Summary of a research project intended to be submitted to the Fondecyt Research Initiation Grant 2028. The project originated as my Comprehensive Exam proposal to become a PhD Candidate in Psychological and Quantitative Foundations at the University of Iowa in 2025, and was presented at a regular meeting of IESED in May 2026.
 

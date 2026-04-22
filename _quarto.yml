@@ -31,3 +31,4 @@ format:
     toc: false
     page-layout: article
     link-external-newwindow: true
+    anchor-sections: false
