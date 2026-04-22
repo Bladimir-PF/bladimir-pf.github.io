@@ -1,5 +1,6 @@
 ---
-title: "Bladimir | Publications"
+title: "Publications"
+description: "List of publications by Bladimir Padilla on multilevel analysis, causal inference, and Chilean higher education."
 bibliography: references.bib
 csl: apa-by-year.csl
 nocite: |

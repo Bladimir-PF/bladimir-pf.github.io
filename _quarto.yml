@@ -3,8 +3,10 @@ project:
   output-dir: _site
 
 website:
-  title: ""
-  description: "Graduate Student in Educational Research and Statisticis"
+  title: "Bladimir Padilla"
+  description: "PhD Candidate in Educational Measurement and Statistics at the University of Iowa. Research in multilevel models, psychometrics, causal inference, and Chilean higher education."
+  open-graph: true
+  twitter-card: true
   favicon: ""
   navbar:
     left:

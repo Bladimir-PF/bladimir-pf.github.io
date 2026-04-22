@@ -1,5 +1,5 @@
 ---
-title: "Bladimir | About"
+title: "About"
 page-layout: full
 ---
 
@@ -12,7 +12,7 @@ page-layout: full
       <img src="bpMin.jpg" alt="Bladimir Padilla">
     </div>
 
-    <h1>Bladimir Padilla</h1>
+    <h1>Bladimir</h1>
     <p class="subtitle">PhD Candidate · Psychological &amp; Quantitative Foundations · University of Iowa</p>
 
     <p>

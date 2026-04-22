@@ -1,5 +1,6 @@
 ---
-title: "Bladimir | Research"
+title: "Research"
+description: "Research projects by Bladimir Padilla on multilevel analysis, causal inference, and Chilean higher education."
 ---
 
 My research involves two main areas: **tools** (i.e., quantitative methods) and **topics** (i.e., substantive areas). I enjoy studying the tools I use in research, particularly their history, characteristics, advantages, and limitations. I am passionate about making these methods accessible through practical examples, and I enjoy working on tutorials and how-to projects. As for the topics, I have been primarily involved in higher education, studying performance on standardized tests and admission to selective higher education institutions.
