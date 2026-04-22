@@ -12,21 +12,13 @@ Working Papers
 :::
 
 ::: {.project-card}
-### Multilevel Analysis of PAES 2025 Results
-
-Paper dedicated to the multilevel analysis of PAES 2025 test scores in reading proficiency and mathematics proficiency (M1).
-
-<a href="#">Draft available upon request</a>
-:::
-
-::: {.project-card}
 ### Exploring the Probabilities of Being Admitted to Selective Universities in Chile in 2022
 **Rodríguez, C., Padilla, B., Mojoyinola, M., & Romero, D.**
 
-This paper analyzes the admission results of Chilean students who participated in the selective higher education admission process in 2022 by means of a binary logistic regression model using academic and non-academic predictors. The results show that non-academic attributes were relevant predictors of the probability of admission into selective universities, especially the students' family income quintile and school sector, which challenges the principle of fairness among students.
+This paper analyzes the admission results of Chilean students who participated in the selective higher education admission process in 2022 using a binary logistic regression model with academic and non-academic predictors. The results show that non-academic attributes were relevant predictors of the probability of admission into selective universities, especially students' family income quintile and school sector, which challenges the principle of fairness among students.
 
 ::: {.tag}
-Under Review
+Draft available upon request
 :::
 :::
 
@@ -35,10 +27,10 @@ Works in Progress
 :::
 
 ::: {.project-card}
-### On the Implications of Adjusting for Confounders, Colliders, and Mediators: A Tutorial Using Propensity Scores and ANCOVA
+### On the Implications of Adjusting for Confounders, Colliders, and Mediators: A Tutorial Using ANCOVA and Inverse Probability Weighting
 **Padilla, B., & Aloe, A.**
 
-This paper presents arguments and examples regarding the precautions that researchers interested in using propensity scores and ANCOVA should consider in accordance with the presence of confounders, colliders, and mediators in their causal models.
+This paper presents arguments and examples regarding the precautions that researchers interested in using propensity scores and ANCOVA should consider in accordance with the presence of confounders, colliders, and mediators in the structure of their causal models.
 
 ::: {.tag}
 Early Stage
@@ -46,7 +38,18 @@ Early Stage
 :::
 
 ::: {.project-card}
-### Multilevel Analysis for Longitudinal Data
+### Treatment Effect Terminology in Education: A Guide for Researchers, Practitioners, and Stakeholders
+**Padilla, B., & Aloe, A.**
+
+This paper introduces the core concepts and vocabulary of treatment effect estimation in the context of educational research. Starting from the potential outcomes framework, it explains how treatment effects are formally defined, what assumptions are required to estimate them, and why establishing the identifiability of a causal effect is a necessary prior step to any analytic decision.
+
+::: {.tag}
+Early Stage
+:::
+:::
+
+::: {.project-card}
+### Multilevel Analysis for Intensive Longitudinal Data
 **Padilla, B., & Hoffman, L.**
 
 Book chapter dedicated to multilevel modeling approaches for intensive longitudinal data, focusing on core concepts and offering recommendations on current best practices.
@@ -54,6 +57,18 @@ Book chapter dedicated to multilevel modeling approaches for intensive longitudi
 ::: {.tag}
 Early Stage
 :::
+:::
+
+::: {.section-title}
+Research Dissemination
+:::
+
+::: {.project-card}
+### Measuring Classroom Climate in Chilean Secondary Schools: A Proposal With Multilevel Measurement Models
+
+Summary of a research project intended to be submitted to the Fondecyt Research Initiation Grant 2028. The project originated as my Comprehensive Exam proposal to become a PhD Candidate in Psychological and Quantitative Foundations at the University of Iowa in 2025, and was presented at a regular meeting of IESED in May 2026.
+
+<a href="crClimateIESED.html">Read more →</a>
 :::
 
 <a href="#top" class="back-to-top">↑ Back to top</a>

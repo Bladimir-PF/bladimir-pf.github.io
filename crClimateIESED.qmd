@@ -1,0 +1,13 @@
+---
+title: "Measuring Classroom Climate in Chilean Secondary Schools: A Proposal With Multilevel Measurement Models"
+---
+
+This is a proposal for measuring classroom climate among secondary school students in Chile that combines psychometric methods and multilevel analysis. The proposal aims to provide reliable evidence and valid results regarding students’ perceptions of their classroom climate, which can contribute to the discussion on educational quality in Chile’s secondary education system.
+
+A polished version of this project will be submitted to the 2028 Fondecyt Research Initiation Competition. For now, the proposal has only been registered on the Open Science Framework (OSF). Below you will find two files. The first is a summary of the proposal I presented during my Comprehensive Exam defense in 2025 (in English), whereas the second is a summary prepared for one of IESED’s regular meetings in May 2026 (in Spanish).
+
+<a href="crClimate-comps.pdf" target="_blank">📄 View Original Presentation</a>
+
+<a href="file2.pdf" target="_blank">📄 View Presentation at IESED</a>
+
+For more information about the proposal, please feel free to contact me!
