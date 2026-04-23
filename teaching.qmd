@@ -16,7 +16,6 @@ My teaching philosophy is grounded in the idea that learning is a cumulative and
 ```{=html}
 <blockquote>
   <p><em>We teach what we do; we do what we teach.</em></p>
-  <footer>— George Cobb (2014)</footer>
 </blockquote>
 ```
 
