@@ -175,11 +175,30 @@ ul.task-list li input[type="checkbox"] {
     </p>
 
     <div class="section-title">Research Interests</div>
-    <p><strong>Tools:</strong> Multilevel Analysis · Longitudinal Analysis · Causal Inference · Psychometrics</p>
-    <p><strong>Topics:</strong> Higher Education Access &amp; Equity · Educational Quality &amp; School Climate · Quantitative Methods</p>
+    <p><strong>Quantitative Methods:</strong> Multilevel Analysis · Longitudinal Analysis · Causal Inference · Psychometrics</p>
+    <p><strong>Substantive Topics:</strong> Higher Education Admission &amp; Fairness · Educational Quality &amp; School Climate · Validity Theory in Educational Measurement </p>
 
-    <div class="section-title">News &amp; Updates</div>
-    <p><strong>News coming soon.</strong></p>
+<div id="top-papers"></div>
+<script>
+fetch('https://api.semanticscholar.org/graph/v1/author/2125440399/papers?fields=title,year,citationCount,externalIds,venue&limit=100')
+  .then(r => r.json())
+  .then(data => {
+    const top = data.data
+      .filter(p => p.citationCount > 0)
+      .sort((a, b) => b.citationCount - a.citationCount)
+      .slice(0, 5);
+    document.getElementById('top-papers').innerHTML =
+      '<div class="section-title">Featured Work</div>' +
+      top.map(p => {
+        const link = p.externalIds && p.externalIds.DOI
+          ? 'https://doi.org/' + p.externalIds.DOI : '#';
+        return '<p>📄 <a href="' + link + '" target="_blank">' + p.title +
+          '</a> <span style="color:#6c757d;font-size:0.85em;">' +
+          (p.venue || '') + (p.year ? ' · ' + p.year : '') +
+          ' · ' + p.citationCount + ' citations</span></p>';
+      }).join('');
+  });
+</script>
 
   </div>
 
