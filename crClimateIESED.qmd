@@ -10,6 +10,6 @@ A polished version of this project will be submitted to the 2028 Fondecyt Resear
 
 <a href="crClimate-comps.pdf" target="_blank">📄 View Original Presentation</a>
 
-<a href="file2.pdf" target="_blank">📄 View Presentation at IESED</a>
+<a href="iesedPrepEsp.pdf" target="_blank">📄 View Presentation at IESED</a>
 
 For more information about the proposal, please feel free to contact me!
