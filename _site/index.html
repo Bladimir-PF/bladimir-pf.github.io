@@ -71,11 +71,11 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="About – Bladimir Padilla">
-<meta property="og:image" content="bpMin.jpg">
+<meta property="og:image" content="https://Bladimir-PF.github.io/bladimir-pf.github.io/bpMin.jpg">
 <meta property="og:site_name" content="Bladimir Padilla">
 <meta property="og:image:alt" content="Bladimir Padilla">
 <meta name="twitter:title" content="About – Bladimir Padilla">
-<meta name="twitter:image" content="bpMin.jpg">
+<meta name="twitter:image" content="https://Bladimir-PF.github.io/bladimir-pf.github.io/bpMin.jpg">
 <meta name="twitter:image:alt" content="Bladimir Padilla">
 <meta name="twitter:card" content="summary_large_image">
 </head>
@@ -317,7 +317,7 @@ fetch('https://api.semanticscholar.org/graph/v1/author/2125440399/papers?fields=
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/Bladimir-PF\.github\.io\/bladimir-pf\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

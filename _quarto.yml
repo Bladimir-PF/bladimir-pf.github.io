@@ -8,6 +8,7 @@ website:
   open-graph: true
   twitter-card: true
   favicon: ""
+  google-analytics: "G-N72CHLVHZV"
   navbar:
     left:
       - text: "About"
