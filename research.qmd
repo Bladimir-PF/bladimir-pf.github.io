@@ -84,4 +84,4 @@ Summary of a research project intended to be submitted to the Fondecyt Research 
 <a href="crClimateIESED.html">Read more →</a>
 :::
 
-<a href="#top" class="back-to-top">↑ Back to top</a>
+<a href="#top" class="back-to-top" target="_self">↑ Back to top</a>

@@ -121,4 +121,4 @@ In 2024, I worked on a short version of my Pedagogical Content Knowledge (PCK) f
 
 <a href="PCK___Spring_2024.pdf" target="_blank">⬇ Download the PCK document</a>
 
-<a href="#top" class="back-to-top">↑ Back to top</a>
+<a href="#top" class="back-to-top" target="_self">↑ Back to top</a>

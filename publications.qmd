@@ -31,4 +31,4 @@ Thesis
 <a href="padilla2025-maThesis.pdf" target="_blank">⬇ Download full document (PDF)</a>
 :::
 
-<a href="#top" class="back-to-top">↑ Back to top</a>
+<a href="#top" class="back-to-top" target="_self">↑ Back to top</a>
