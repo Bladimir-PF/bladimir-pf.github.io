@@ -89,10 +89,22 @@ Graduate
 
 ::: {.project-card}
 ### PSQF 6246: Design of Experiments
-University of Iowa · Fall 2022, 2023<br>
+University of Iowa · Fall 2022, 2023, 2026<br>
 Supervisor: Dr. Ariel Aloe
 
 A course focused on the design of experiments, covering different types of experimental designs (e.g., randomized controlled trials, factorial designs) and their applications in the social and health sciences.
+
+::: {.tag}
+Graduate
+:::
+:::
+
+::: {.project-card}
+### PSQF 6243: Intermediate Statistical Methods
+University of Iowa · Fall 2026<br>
+Supervisor: Dr. Eliezer Santos
+
+A course focused on the intermediate statistical methods, covering different types of statistical frameworks (e.g., frequentist, Bayesian), models (e.g., linear regression, ANOVA) and their applications in the social sciences.
 
 ::: {.tag}
 Graduate
