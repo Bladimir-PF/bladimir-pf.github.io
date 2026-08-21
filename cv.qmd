@@ -2,6 +2,8 @@
 title: "CV"
 ---
 
+<div id="top"></div>
+
 You can download my full CV as a PDF below.
 
 <a href="academicCV.pdf" target="_blank" class="cv-button">⬇ Download CV (PDF)</a>
