@@ -163,4 +163,4 @@ Software
 
 **R/RStudio** (advanced) · **Stata** (intermediate) · **Mplus** (intermediate)
 
-<a href="#top" class="back-to-top">↑ Back to top</a>
+<a href="#top" class="back-to-top" target="_self">↑ Back to top</a>
