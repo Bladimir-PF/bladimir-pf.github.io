@@ -2,8 +2,6 @@
 title: "CV"
 ---
 
-<div id="top"></div>
-
 You can download my full CV as a PDF below.
 
 <a href="academicCV.pdf" target="_blank" class="cv-button">⬇ Download CV (PDF)</a>
@@ -163,4 +161,4 @@ Software
 
 **R/RStudio** (advanced) · **Stata** (intermediate) · **Mplus** (intermediate)
 
-<a href="#top" class="back-to-top" target="_self">↑ Back to top</a>
+<a href="javascript:void(0)" onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;" class="back-to-top">↑ Back to top</a>

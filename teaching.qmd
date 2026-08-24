@@ -3,8 +3,6 @@ title: "Teaching"
 description: "Teaching materials by Bladimir Padilla on quantitative methods."
 ---
 
-<div id="top"></div>
-
 I am committed to transparency and accessibility in my work. In this section, you will find all the materials I have created for my teaching activities. If you have any questions about these materials, please feel free to contact me.
 
 ::: {.section-title}
@@ -121,4 +119,4 @@ In 2024, I worked on a short version of my Pedagogical Content Knowledge (PCK) f
 
 <a href="PCK___Spring_2024.pdf" target="_blank">⬇ Download the PCK document</a>
 
-<a href="#top" class="back-to-top" target="_self">↑ Back to top</a>
+<a href="javascript:void(0)" onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;" class="back-to-top">↑ Back to top</a>
