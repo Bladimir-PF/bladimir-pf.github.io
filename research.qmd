@@ -82,4 +82,13 @@ Summary of a research project intended to be submitted to the Fondecyt Research 
 <a href="crClimateIESED.html">Read more →</a>
 :::
 
+::: {.project-card}
+### Biases in Observational Designs for Causal Inference in Educational Research
+**Padilla, B.**
+
+Discussion of the main ideas underlying my dissertation for the PhD in Psychological and Quantitative Foundations (PSQF) at the University of Iowa, presented at a regular meeting of IESED in October 2026. The attached document is a summary of the problem, the purpose, the research questions, and the contributions of the dissertation. The final version of this project is expected to be completed in May 2027. When that happens, I will update this post.
+
+<a href="pDissIESED2026.html" target="_blank">📄 View Presentation at IESED</a>
+:::
+
 <a href="javascript:void(0)" onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;" class="back-to-top">↑ Back to top</a>
